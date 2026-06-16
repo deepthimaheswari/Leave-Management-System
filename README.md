@@ -62,6 +62,7 @@ python app.py
 
 ### User Registration Page
 <img width="761" height="488" alt="image" src="https://github.com/user-attachments/assets/222e8028-ede3-402b-a134-d3eef110a6e1" />
+
 ### User Login Page
 <img width="758" height="494" alt="image" src="https://github.com/user-attachments/assets/b1bc7970-a245-4dc0-a2ea-6858cebe25c4" />
 
