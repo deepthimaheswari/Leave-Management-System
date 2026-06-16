@@ -67,9 +67,10 @@ python app.py
 <img width="758" height="494" alt="image" src="https://github.com/user-attachments/assets/b1bc7970-a245-4dc0-a2ea-6858cebe25c4" />
 
 <img width="754" height="466" alt="image" src="https://github.com/user-attachments/assets/7e723e2b-ad64-4a05-b77f-dfe887dd59d9" />
-
+### Student Dashboard
 <img width="932" height="486" alt="image" src="https://github.com/user-attachments/assets/b866a8a9-02f2-4043-b218-44e692e11d9c" />
 
+### Email Configuration
 <img width="916" height="531" alt="image" src="https://github.com/user-attachments/assets/c932c01d-735c-4a73-a491-0530c58e1326" />
 
 
