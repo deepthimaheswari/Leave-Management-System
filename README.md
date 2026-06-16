@@ -60,6 +60,7 @@ python app.py
 
 ## Screenshots
 
+### Registration Page
 <img width="761" height="488" alt="image" src="https://github.com/user-attachments/assets/222e8028-ede3-402b-a134-d3eef110a6e1" />
 
 
