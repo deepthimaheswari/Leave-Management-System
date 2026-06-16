@@ -72,10 +72,6 @@ python app.py
 <img width="916" height="531" alt="image" src="https://github.com/user-attachments/assets/c932c01d-735c-4a73-a491-0530c58e1326" />
 
 
-
-
-
-
 ## Author
 
 Deepthi Maheswari
