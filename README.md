@@ -2,7 +2,7 @@
 
 ## Description
 
-A role-based leave management system developed using Python Flask and SQLite for managing employee leave requests and approvals.
+A role-based leave management system developed using Python Flask and SQLite for managing Student leave requests and approvals.
 
 ## Technologies Used
 
@@ -14,11 +14,11 @@ A role-based leave management system developed using Python Flask and SQLite for
 
 ## Features
 
-- Employee Login
+- Student Login
 - Apply for Leave
 - View Leave Status
 - Admin Approval/Rejection
-- Employee Management
+- Student Management
 - Email Notifications
 
 ## Project Structure
