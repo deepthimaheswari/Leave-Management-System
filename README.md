@@ -55,7 +55,7 @@ pip install flask
 4. Run application
 
 ```bash
-python app.py
+streamlit run app.py
 ```
 
 ## Screenshots
